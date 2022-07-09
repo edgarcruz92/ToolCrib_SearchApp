@@ -1,0 +1,95 @@
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\ToolCrib_SearchApp.exe
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\ToolCrib_SearchApp.deps.json
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\ToolCrib_SearchApp.runtimeconfig.json
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\ToolCrib_SearchApp.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\ToolCrib_SearchApp.pdb
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.csproj.AssemblyReference.cache
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.Form1.resources
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.csproj.GenerateResource.cache
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.AssemblyInfoInputs.cache
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.AssemblyInfo.cs
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.csproj.CoreCompileInputs.cache
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.csproj.CopyComplete
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\refint\ToolCrib_SearchApp.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.pdb
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.genruntimeconfig.cache
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ref\ToolCrib_SearchApp.dll
+C:\VSD\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.Properties.Resources.resources
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.csproj.AssemblyReference.cache
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\refint\ToolCrib_SearchApp.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.pdb
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\ToolCrib_SearchApp.exe
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\ToolCrib_SearchApp.deps.json
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\ToolCrib_SearchApp.runtimeconfig.json
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\ToolCrib_SearchApp.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\ToolCrib_SearchApp.pdb
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Azure.Core.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.Form1.resources
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.Properties.Resources.resources
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.csproj.GenerateResource.cache
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.AssemblyInfoInputs.cache
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.AssemblyInfo.cs
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.csproj.CoreCompileInputs.cache
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.csproj.CopyComplete
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ToolCrib_SearchApp.genruntimeconfig.cache
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net6.0-windows\ref\ToolCrib_SearchApp.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\Build\Debug\net6.0-windows\ToolCrib_SearchApp.exe
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\Build\Debug\net6.0-windows\ToolCrib_SearchApp.deps.json
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\Build\Debug\net6.0-windows\ToolCrib_SearchApp.runtimeconfig.json
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\Build\Debug\net6.0-windows\ToolCrib_SearchApp.dll
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\Build\Debug\net6.0-windows\ToolCrib_SearchApp.pdb

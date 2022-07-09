@@ -1,0 +1,8 @@
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net5.0-windows\ToolCrib_SearchApp.csproj.AssemblyReference.cache
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net5.0-windows\ToolCrib_SearchApp.Form1.resources
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net5.0-windows\ToolCrib_SearchApp.Properties.Resources.resources
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net5.0-windows\ToolCrib_SearchApp.csproj.GenerateResource.cache
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net5.0-windows\ToolCrib_SearchApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net5.0-windows\ToolCrib_SearchApp.AssemblyInfoInputs.cache
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net5.0-windows\ToolCrib_SearchApp.AssemblyInfo.cs
+H:\maintenance indicators\David Cuevas\ToolCrib_SearchApp\ToolCrib_SearchApp\obj\Debug\net5.0-windows\ToolCrib_SearchApp.csproj.CoreCompileInputs.cache
