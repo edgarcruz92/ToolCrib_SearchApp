@@ -167,7 +167,7 @@ namespace ToolCrib_SearchApp
              */
 
             //This is used to decide if the filter must be made by tool crib part number or by description
-            if ((textToSearch.Text.Length == 8) && (textToSearch.Text.Substring(0, 2) == "TC"))
+            if ((textToSearch.Text.Length == 8) && ((textToSearch.Text.Substring(0, 2) == "TC") || (textToSearch.Text.Substring(0, 2) == "tc")))
             {
                 searchByTCPN = true;
             }
