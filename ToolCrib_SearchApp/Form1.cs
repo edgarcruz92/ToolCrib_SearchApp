@@ -84,6 +84,7 @@ namespace ToolCrib_SearchApp
        */
        
 
+        //subroutine to make it able to be called from other places 
         public void toolCribQuery()
         {
             //Clear Tool Crib Part Number during the search
@@ -253,7 +254,7 @@ namespace ToolCrib_SearchApp
 
 
                 //
-                MessageBox.Show("Some elements were found!");
+                MessageBox.Show("Some elements were found! :)");
             }
         }
     }
