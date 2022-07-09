@@ -84,7 +84,6 @@
             this.textPartNumber.Size = new System.Drawing.Size(121, 23);
             this.textPartNumber.TabIndex = 3;
             this.textPartNumber.Text = "Part Number";
-           // this.textPartNumber.TextChanged += new System.EventHandler(this.textPartNumber_TextChanged);
             // 
             // textToSearch
             // 
@@ -93,7 +92,8 @@
             this.textToSearch.Size = new System.Drawing.Size(677, 23);
             this.textToSearch.TabIndex = 5;
             this.textToSearch.Text = "What do you want to search?";
-            this.textToSearch.TextChanged += new System.EventHandler(this.textToSearch_TextChanged);
+           
+            this.textToSearch.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textToSearch_KeyDown);
             this.textToSearch.MouseEnter += new System.EventHandler(this.textToSearch_MouseEnter);
             // 
             // label1
